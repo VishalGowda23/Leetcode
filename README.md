@@ -13,9 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/VishalGowda23/Leetcode/tree/master/0605-can-place-flowers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalGowda23/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalGowda23/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/VishalGowda23/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
