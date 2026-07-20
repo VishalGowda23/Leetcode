@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishalGowda23/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0334-increasing-triplet-subsequence](https://github.com/VishalGowda23/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/VishalGowda23/Leetcode/tree/master/0605-can-place-flowers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalGowda23/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/VishalGowda23/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/VishalGowda23/Leetcode/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
