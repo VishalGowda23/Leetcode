@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishalGowda23/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/VishalGowda23/Leetcode/tree/master/0035-search-insert-position) |
 | [0334-increasing-triplet-subsequence](https://github.com/VishalGowda23/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/VishalGowda23/Leetcode/tree/master/0605-can-place-flowers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VishalGowda23/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VishalGowda23/Leetcode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/VishalGowda23/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
