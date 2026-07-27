@@ -1,4 +1,4 @@
-# LeetCode Topics - Vishal Gowda
+# LeetCode - Vishal Gowda
 ## Math
 |  |
 | ------- |
