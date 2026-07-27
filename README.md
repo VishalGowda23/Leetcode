@@ -1,4 +1,3 @@
-
 # LeetCode Topics
 ## Math
 |  |
