@@ -1,8 +1,11 @@
 class Solution {
     public int countCommas(int n) {
-        if( n < 999){
-            return 0;
+        int count = 0;
+
+        for (int place = 1000; place <= n; place *= 1000) {
+            count += n - place + 1;
         }
-        return n - 999;
+
+        return count;
     }
 }
